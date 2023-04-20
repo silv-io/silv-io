@@ -1,6 +1,10 @@
 # 👋 Hi, I’m Silvio
 
-<!---
-silv-io/silv-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="#">
+  <img align="center" width="49%" src="./header-iso-calendar.svg" />
+</a>
+
+<a href="#">
+  <img align="center" width="49%" src="./habits.svg" />
+</a>
+
